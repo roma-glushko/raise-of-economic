@@ -1,4 +1,4 @@
-# Raise of Economic
+# Raise of Economy
 
 Phaser-based economic simulator with a focus on the economic and finance theory and key indicators.
 A player takes place of the goverment leader and can impact lives of citizents from the small country.
